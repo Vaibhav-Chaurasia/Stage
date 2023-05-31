@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vchaurasia/AndroidStudioProjects/Stage2/app/src/main/res/drawable/ic_button_outline_style.xml" value="0.1" />
+        <entry key="..\:/Users/vchaurasia/AndroidStudioProjects/Stage2/app/src/main/res/layout/activity_art_of_good_test_cases.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/vchaurasia/AndroidStudioProjects/Stage2/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/vchaurasia/AndroidStudioProjects/Stage2/app/src/main/res/layout/fragment_extra.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/vchaurasia/AndroidStudioProjects/Stage2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
